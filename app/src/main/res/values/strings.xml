@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="locations">Locations</string>
+    <string name="email">alex@gmail.com</string>
+    <string name="title">Locations</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
